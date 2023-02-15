@@ -1,0 +1,12 @@
+.header{
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+.header__buttons{
+    margin-left: auto;
+    margin-right: 30px;
+}
+a{
+    text-decoration: none;
+}
